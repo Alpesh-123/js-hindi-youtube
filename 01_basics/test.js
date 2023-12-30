@@ -1,0 +1,10 @@
+console.log("Alpesh");
+console.log("Alpesh");
+console.log("Aayushi");
+console.log("Aayu");
+console.log("Sweety");
+console.log("Alpesh");
+console.log("Alpesh");
+console.log("Aeroplane");
+console.log("WWE");
+console.log("Aerosole");
